@@ -1,2 +1,4 @@
 hello! welcome to CLI console.
 good afternoon
+
+this is a new content
